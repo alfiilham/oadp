@@ -28,3 +28,4 @@ spec:
             region: "localstorage"
             s3ForcePathStyle: "true"
             s3Url: "http://s3.openshift-storage.svc" #update this if necessary
+            insecureSkipTLSVerify: "true"
